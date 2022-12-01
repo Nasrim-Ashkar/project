@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Sansita:ital@0;1&display=swap');
+.main{
+  height: 700px;
+  width: 80%;
+  border: 1px rgb(14, 12, 12) solid;
+  position: relative;
+  left: 10%;}
+.c{
+  width: 30%;
+  height: 700px;
+  border: 1px solid;
+  position: absolute;
+  border-top-left-radius: 300px;
+  box-shadow:10px 10px grey;
+  top: 100px;
+}
+p{
+   font-family: 'Sansita', sans-serif;
+   position: sticky;
+   top: 0px;
+}
+
+.c-1{
+  background-color: #F2E5E5;
+  left: 907px;
+  
+}
+.c-2{
+  background-color: #F2E5E5;
+  left:17px;
+}.c-3{
+  background-color: #F2E5E5;
+  left: 455px;
+}
+img{
+  width: 100%;
+  height: 450px;
+}
+body{
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.search{
+  width: 50%;
+  height: 50px;
+  background-color: white;
+  border: white solid 2px; 
+  box-shadow:4px 5px #948d8d;
+  border-top-left-radius: 3px;
+  position: absolute;
+  left: 25%;
+  text-align: left;
+  color: #948d8d;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-large;
+}
